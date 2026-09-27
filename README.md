@@ -17,7 +17,7 @@ For a persistent installation, package and sign the extension through the
 Firefox Add-ons Developer Hub.
 
 The extension is enabled by default. Click the Articleall toolbar icon to pause
-or resume automatic redirects. The setting is stored with Chrome Sync.
+or resume automatic redirects. The setting is stored with Firefox Sync storage.
 
 ## Supported sites
 
